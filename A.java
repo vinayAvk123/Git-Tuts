@@ -2,6 +2,6 @@ Class A
 {
     public static void main(String[] args)
     {
-        System.out.println("Hi-Dev2")
+        System.out.println("Hi-Developer")
     }
 }
